@@ -61,7 +61,14 @@ Layer Normalization (LN) / Group Normalization (GN)：
   -  第一性原理：为了解决病态问题（Ill-posed Problem）和过拟合（Overfitting）。
   -  在损失函数 $J(\mathbf{w})$ 后面加上一项 $\lambda \|\mathbf{w}\|$，本质是在**带约束的优化问题（Constrained Optimization）**中引入拉格朗日乘子（Lagrange Multiplier）。
   - 
-*   
+* “矩”这个词在 BN（Batch Normalization）里，其实不是深奥的新概念，只是一个统计学老词被借来用了。
+  - 在数学里，**矩（moment）**用来描述一个分布“长什么样”。可以把它当成：对随机变量的“形状特征”的压缩描述。
+  - 一阶矩（first moment）:严格说是一阶中心矩之前的原始矩，对应的就是𝐸[𝑋],也就是均值（mean）。这个分布整体“站在什么位置”。
+  - 二阶矩（second moment）:如果直接算𝐸[𝑋2],叫二阶原始矩；但在 BN 里用的是二阶中心矩：𝐸[(𝑋−𝜇)2],这就是方差（variance）。数据“散得有多开”。
+  - 在更一般的概率论里：一阶矩 → 位置;二阶矩 → 尺度;三阶矩 → 偏度（skewness，左右歪不歪）;四阶矩 → 峰度（kurtosis，尖不尖）
+  - BN 只用到了前两阶，刚好够把分布“拉直 + 拉齐”。
+ 
+  - 
 ---
 
 ## 2. 这个概念被发明的历史背景（Historical Motivation）
