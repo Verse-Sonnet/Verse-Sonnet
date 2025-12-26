@@ -35,13 +35,13 @@ Here are some ideas to get you started:
 ## 📊 实时编程统计
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%2028%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-84.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 842 Bytes Used in GitHub's Storage 
+> 📦 844 Bytes Used in GitHub's Storage 
  > 
 > 🏆 66 Contributions in the Year 2025
  > 
@@ -78,19 +78,19 @@ Sunday                   32 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 45 mins        ███████████░░░░░░░░░░░░░░   44.98 % 
-Markdown                 1 hr 42 mins        ███████████░░░░░░░░░░░░░░   43.60 % 
-YAML                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Markdown                 2 hrs 25 mins       ██████████████░░░░░░░░░░░   54.43 % 
+Python                   1 hr 37 mins        █████████░░░░░░░░░░░░░░░░   36.52 % 
+YAML                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 54 mins       █████████████████████████   100.00 % 
+PyCharm                  4 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/12/2025 01:18:28 UTC
+ Last Updated on 26/12/2025 01:18:34 UTC
 <!--END_SECTION:waka-->
 
 ---
