@@ -35,15 +35,13 @@ Here are some ideas to get you started:
 ## 📊 实时编程统计
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-198%20hrs%2041%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-91.29%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-91.55%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 801 Bytes Used in GitHub's Storage 
+> 📦 814 Bytes Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 1 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,48 +49,8 @@ Here are some ideas to get you started:
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                27 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-🌆 Daytime                53 commits          ███████░░░░░░░░░░░░░░░░░░   27.60 % 
-🌃 Evening                66 commits          █████████░░░░░░░░░░░░░░░░   34.38 % 
-🌙 Night                  46 commits          ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-Tuesday                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-Wednesday                82 commits          ███████████░░░░░░░░░░░░░░   42.71 % 
-Thursday                 14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-Friday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-Saturday                 18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Sunday                   32 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   2 hrs 24 mins       ██████████████░░░░░░░░░░░   57.52 % 
-Markdown                 57 mins             ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
-YAML                     46 mins             █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-
-🔥 Editors: 
-PyCharm                  4 hrs 11 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  4 hrs 11 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 02/01/2026 01:20:30 UTC
+ Last Updated on 03/01/2026 01:15:52 UTC
 <!--END_SECTION:waka-->
 
 ---
