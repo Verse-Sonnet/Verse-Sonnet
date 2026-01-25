@@ -77,7 +77,7 @@
 ### 四、 严格的反馈 (Strict Feedback)
 
 
-1. 正在做的语义分割（Semantic Segmentation），如果仅仅停留在把像素分类（Labeling），在具身智能时代是**价值很低**的。因为这种分割是静态的、无物理意义的。
+1. 正在做语义分割（Semantic Segmentation），如果仅仅停留在把像素分类（Labeling），在具身智能时代是**价值很低**的。因为这种分割是静态的、无物理意义的。
 2. 但如果分割出来的“路面”看起来很完美，却无法告诉机器人这个路面是“滑的（低摩擦）”还是“粗糙的（高摩擦）”，你的模型对机器人来说就是**致盲**的。
 3. **未来的方向：** 需要不仅仅是识别“这是什么（What is it）”，而是通过视觉推断“它不仅长这样，它摸起来感觉如何，它有多重，它会不会碎（How it behaves）”。
 
@@ -85,6 +85,5 @@
 
 ### for my project
 
-
 inject a 'Depth Awareness' or 'Surface Normal Estimation' branch into current segmentation network
-(This is the first step to bridging 2D pixels to 3D physical geometry, making your segmentation "physically grounded" rather than just a flat painting.)
+(This is the first step to bridging 2D pixels to 3D physical geometry, making segmentation "physically grounded" rather than just a flat painting.)
