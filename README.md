@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Verse-Sonnet&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VerseXuShuwei&show_icons=true&theme=tokyonight)
   
   learning notes on AI
 
@@ -101,7 +101,7 @@ Windows                  7 hrs 24 mins       ███████████�
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Verse-Sonnet/Verse-Sonnet/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/VerseXuShuwei/VerseXuShuwei/output/snake.svg)
 
 </div>
 
@@ -111,9 +111,9 @@ Windows                  7 hrs 24 mins       ███████████�
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Verse-Sonnet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VerseXuShuwei&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Verse-Sonnet&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VerseXuShuwei&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -126,7 +126,7 @@ Windows                  7 hrs 24 mins       ███████████�
 
 ###  学习记录
 
-path:`Verse-Sonnet/Verse-Sonnet/main/learning_notes`
+*path:`VerseXuShuwei/VerseXuShuwei/main/learning_notes`
 
 
 
@@ -151,7 +151,7 @@ learning duration
 <div align="center">
 
 embodied AI
-![Profile Views](https://komarev.com/ghpvc/?username=Verse-Sonnet&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=VerseXuShuwei&color=brightgreen&style=flat-square)
 
 喵喵咪 
 
