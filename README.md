@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 ## 📊 实时编程统计
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-316%20hrs%2056%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-123.38%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -76,21 +78,21 @@ Sunday                   50 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 55 mins             ██████████████████████░░░   90.00 % 
-Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Markdown                 23 mins             ████████████████████░░░░░   79.39 % 
+Python                   3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+YAML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-PyCharm                  37 mins             ███████████████░░░░░░░░░░   61.47 % 
-Claude Code              23 mins             ██████████░░░░░░░░░░░░░░░   38.53 % 
+Claude Code              15 mins             █████████████░░░░░░░░░░░░   53.24 % 
+PyCharm                  13 mins             ████████████░░░░░░░░░░░░░   46.76 % 
 
 💻 Operating System: 
-Windows                  1 hr 1 min          █████████████████████████   100.00 % 
+Windows                  29 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/07/2026 02:11:35 UTC
+ Last Updated on 26/07/2026 02:22:10 UTC
 <!--END_SECTION:waka-->
 
 ---
