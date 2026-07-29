@@ -35,10 +35,6 @@ Here are some ideas to get you started:
 ## 📊 实时编程统计
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-316%20hrs%2033%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2017%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-123.38%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -80,23 +76,23 @@ Sunday                   50 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 19 mins             ███████████████████░░░░░░   76.39 % 
-Python                   3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-YAML                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Markdown                 19 mins             ██████████████████████░░░   87.03 % 
+YAML                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-Claude Code              15 mins             ███████████████░░░░░░░░░░   61.06 % 
-PyCharm                  10 mins             ██████████░░░░░░░░░░░░░░░   38.94 % 
+Claude Code              15 mins             ██████████████████░░░░░░░   71.96 % 
+PyCharm                  6 mins              ███████░░░░░░░░░░░░░░░░░░   28.04 % 
 
 💻 Operating System: 
-Windows                  25 mins             █████████████████████████   100.00 % 
+Windows                  21 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 mins (61.06%)
+⏱ AI Coding Time: 15 mins (71.96%)
 
 ✍️ 103 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -116,7 +112,7 @@ Opus                     0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 28/07/2026 02:04:33 UTC
+ Last Updated on 29/07/2026 02:07:48 UTC
 <!--END_SECTION:waka-->
 
 ---
