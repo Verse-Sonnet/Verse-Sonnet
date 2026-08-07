@@ -35,10 +35,6 @@ Here are some ideas to get you started:
 ## 📊 实时编程统计
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-316%20hrs%2033%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2017%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-123.38%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -96,7 +92,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 06/08/2026 02:06:26 UTC
+ Last Updated on 07/08/2026 02:25:35 UTC
 <!--END_SECTION:waka-->
 
 ---
