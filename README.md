@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 ## 📊 实时编程统计
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-316%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-318%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2029%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-123.38%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -80,44 +80,44 @@ Sunday                   50 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 20 mins             █████████░░░░░░░░░░░░░░░░   37.95 % 
-Python                   18 mins             █████████░░░░░░░░░░░░░░░░   34.65 % 
-textmate                 12 mins             ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Python                   1 hr 5 mins         ████████████░░░░░░░░░░░░░   48.27 % 
+Markdown                 44 mins             ████████░░░░░░░░░░░░░░░░░   32.64 % 
+textmate                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+YAML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔥 Editors: 
-Claude Code              36 mins             █████████████████░░░░░░░░   67.45 % 
-PyCharm                  17 mins             ████████░░░░░░░░░░░░░░░░░   32.55 % 
+Claude Code              1 hr 57 mins        ██████████████████████░░░   86.87 % 
+PyCharm                  17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
 
 💻 Operating System: 
-Windows                  54 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 mins (67.62%)
+⏱ AI Coding Time: 1 hr 58 mins (86.94%)
 
-✍️ 1,780 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,880 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,336,825 Input Tokens, 80,466 Output Tokens
+🔤 2,019,166 Input Tokens, 160,046 Output Tokens
 
-💵 $34.42 Estimated AI Cost This Week
+💵 $60.52 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 8 AI Prompts
+🧠 5 AI Sessions, 14 AI Prompts
 
-Opus                     1,780 lines         █████████████████████████   100.00 % 
+Opus                     2,880 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 198 characters per prompt
+📝 Concise Prompter — average 183 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 5.12% of changed lines were hand-edited
+🚀 High AI Trust — 3.23% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/08/2026 01:00:14 UTC
+ Last Updated on 27/08/2026 06:54:50 UTC
 <!--END_SECTION:waka-->
 
 ---
